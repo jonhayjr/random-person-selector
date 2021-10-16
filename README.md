@@ -1,6 +1,8 @@
 # Random Person Selector
 
-This is a React App that can be used to select a random person from a list provided by the user.
+This is a React App that can be used to select a random person from a list provided by the user. 
+
+Click [here](http://www.jonhayjr.com/random-person-selector/) to preview.
 
 ## Available Scripts
 
