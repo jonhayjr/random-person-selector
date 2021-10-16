@@ -1,11 +1,12 @@
 .header {
-    background-color: lightgrey;
+    background-color: #2D2E2E;
     width: 100%;
     height: 15vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    color: #FBFBFB;
 }
 
 .header__heading {

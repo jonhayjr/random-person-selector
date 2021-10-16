@@ -1,7 +1,12 @@
+.form {
+    margin: 15px 10px 35px 10px;
+}
+
 .form__label {
     display: block;
     margin-bottom: 10px;
     text-align: left;
+    line-height: 1.2;
 }
 
 .form__textbox {
@@ -14,11 +19,22 @@
     border: 1px solid grey;
     font-size: 16px;
     padding: 15px;
-    margin-bottom: 35px;
+    margin-bottom: 15px;
 }
 
 .btn {
     width: 100%;
+    background-color: #0F0F0F;
+    color: #FBFBFB;
+    padding: 10px;
+    border-radius: 10px;
+    outline: none;
+    border: none;
+}
+
+.btn:hover {
+    opacity: 0.75;
+    cursor: pointer;
 }
 
 
