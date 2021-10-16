@@ -1,4 +1,6 @@
  import {useState} from 'react';
+ import Alert from '@mui/material/Alert';
+
 /*Import CSS*/
 import './UserInput.css';
 
@@ -36,7 +38,7 @@ const UserInput = ({onChange, inputValue, onSubmit}) => {
             {
             validationError
             ?
-            <p className='validation-error'>This field cannot be blank!</p>
+            <Alert severity="error">This field cannot be blank!</Alert>
             : ''
             }
             <textarea className='form__textbox' onChange={handleChange} value={inputValue}></textarea>
