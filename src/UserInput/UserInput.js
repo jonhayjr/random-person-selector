@@ -32,7 +32,7 @@ const UserInput = ({onChange, inputValue, onSubmit}) => {
 
     return (
         <form className='form' onSubmit={handleSubmit}>
-            <label className='form__label'>Please input a list of people below:</label>
+            <label className='form__label'>Please input a list of people below and click the button to select a random person.</label>
             {
             validationError
             ?
@@ -40,7 +40,7 @@ const UserInput = ({onChange, inputValue, onSubmit}) => {
             : ''
             }
             <textarea className='form__textbox' onChange={handleChange} value={inputValue}></textarea>
-            <Button class='btn btn-primary' text='Submit'/>
+            <Button class='btn btn-primary' text='Get Random Person'/>
         </form>
     )
 }

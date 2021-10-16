@@ -1,3 +1,20 @@
 .main {
     margin-top: 50px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.random-user {
+    margin-top: 50px;
+    font-size: 20px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+@media (min-width: 768px) {
+    .random-user {
+        font-size: 30px;
+    }
 }

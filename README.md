@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Random Person Selector
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a React App that can be used to select a random person from a list provided by the user.
 
 ## Available Scripts
 
