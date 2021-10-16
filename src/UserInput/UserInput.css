@@ -1,0 +1,34 @@
+.form__label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.form__textbox {
+    margin-top: 10px;
+    width: 50%;
+    height: auto;
+    min-height: 250px;
+    outline: none;
+    resize: none;
+    border: 1px solid grey;
+}
+
+.btn {
+    margin-top: 25px;
+}
+
+.btn-primary {
+    background-color: darkgray;
+    border: 1px solid white;
+    width: 15%;
+    padding: 10px;
+    color: white;
+    border-radius: 5px;
+}
+
+.btn-primary:hover {
+    cursor: pointer;
+    color: darkgray;
+    border: 1px solid darkgray;
+    background-color: white;
+}
