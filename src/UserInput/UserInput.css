@@ -32,3 +32,9 @@
     border: 1px solid darkgray;
     background-color: white;
 }
+
+.validation-error {
+    color: red;
+    font-size: 14px;
+    margin-bottom: 5px;
+}

@@ -3,10 +3,10 @@ import './Main.css';
 /*Import Components*/
 import UserInput from '../UserInput/UserInput';
 
-const Main = () => {
+const Main = ({onChange, inputValue, onSubmit}) => {
     return (
         <main className='main'>
-            <UserInput/>
+            <UserInput onChange={onChange} inputValue={inputValue} onSubmit={onSubmit}/>
         </main>
     )
 }
