@@ -1,11 +1,11 @@
  import {useState} from 'react';
+
+ /*Import Material UI components*/
  import Alert from '@mui/material/Alert';
+ import Button from '@mui/material/Button';
 
 /*Import CSS*/
 import './UserInput.css';
-
-/*Import Components*/
-import Button from '../Button/Button';
 
 const UserInput = ({onChange, inputValue, onSubmit}) => {
 
@@ -42,7 +42,7 @@ const UserInput = ({onChange, inputValue, onSubmit}) => {
             : ''
             }
             <textarea className='form__textbox' onChange={handleChange} value={inputValue}></textarea>
-            <Button class='btn btn-primary' text='Get Random Person'/>
+            <Button variant="contained" className="btn" onClick={(e) => {handleSubmit(e)}}>Get Random Person</Button>
         </form>
     )
 }
