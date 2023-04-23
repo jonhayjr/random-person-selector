@@ -1,7 +1,7 @@
 .footer {
     background-color: #2D2E2E;
     width: 100%;
-    min-height: 15vh;
+    height: 15vh;
     display: flex;
     flex-direction: column;
     justify-content: center;

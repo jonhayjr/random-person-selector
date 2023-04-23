@@ -1,12 +1,10 @@
 .main {
-    margin-top: 50px;
     padding-right: 15px;
     padding-left: 15px;
-    padding-bottom: 15px;
+    margin-bottom: 50px;
 }
 
 .random-user {
-    margin-top: 50px;
     font-size: 20px;
 }
 
