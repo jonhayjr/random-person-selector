@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/random-person-selector/static/css/main.656cbc44.chunk.css",
-    "main.js": "/random-person-selector/static/js/main.a15a016a.chunk.js",
-    "main.js.map": "/random-person-selector/static/js/main.a15a016a.chunk.js.map",
+    "main.css": "/random-person-selector/static/css/main.d4d08f9d.chunk.css",
+    "main.js": "/random-person-selector/static/js/main.3c454689.chunk.js",
+    "main.js.map": "/random-person-selector/static/js/main.3c454689.chunk.js.map",
     "runtime-main.js": "/random-person-selector/static/js/runtime-main.1383a61e.js",
     "runtime-main.js.map": "/random-person-selector/static/js/runtime-main.1383a61e.js.map",
     "static/js/2.9483f923.chunk.js": "/random-person-selector/static/js/2.9483f923.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.20863505.chunk.js": "/random-person-selector/static/js/3.20863505.chunk.js",
     "static/js/3.20863505.chunk.js.map": "/random-person-selector/static/js/3.20863505.chunk.js.map",
     "index.html": "/random-person-selector/index.html",
-    "static/css/main.656cbc44.chunk.css.map": "/random-person-selector/static/css/main.656cbc44.chunk.css.map",
+    "static/css/main.d4d08f9d.chunk.css.map": "/random-person-selector/static/css/main.d4d08f9d.chunk.css.map",
     "static/js/2.9483f923.chunk.js.LICENSE.txt": "/random-person-selector/static/js/2.9483f923.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1383a61e.js",
     "static/js/2.9483f923.chunk.js",
-    "static/css/main.656cbc44.chunk.css",
-    "static/js/main.a15a016a.chunk.js"
+    "static/css/main.d4d08f9d.chunk.css",
+    "static/js/main.3c454689.chunk.js"
   ]
 }
